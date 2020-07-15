@@ -5,3 +5,5 @@ Visual Recognition Service provided by the IBM cloud. The basic idea behind this
 <img src="https://raw.githubusercontent.com/vikhyat187/SmartPracticeschool/SBSPS-Challenge-1575-Intelligent-Post-Lock-Down-Management-System-for-Public-Transportation/master/HomePage.png?sanitize=true&raw=true" />
 ![video-presentation](<https://drive.google.com/drive/u/2/my-drive>)
 ![home-page](https://github.com/[vikhyat187]/[SmartPracticeschool/SBSPS-Challenge-1575-Intelligent-Post-Lock-Down-Management-System-for-Public-Transportation]/blob/[branch]/HomePage.jpg?raw=true)
+
+![](https://github.com/SmartPracticeschool/SBSPS-Challenge-1575-Intelligent-Post-Lock-Down-Management-System-for-Public-Transportation/blob/master/HomePage.png)
